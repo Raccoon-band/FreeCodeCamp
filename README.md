@@ -1,6 +1,7 @@
 There are collected here training codes from training certifications of [FreeCodeCamp](https://freecodecamp.org/).
 
 **Responsive Web Design Certification**
+
 In this certification, are learned the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
 Cat Photo App
