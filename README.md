@@ -5,6 +5,7 @@ In this certification, are learned the languages that developers use to build we
 
 ### **Survey Form**
 For this project, a survey form has been created to collect data from your users.
+<img src="https://github.com/Raccoon-band/FreeCodeCamp/assets/121566462/29c22c17-8acd-4db5-a1fe-8f51e3d428ab" width=250px />
 ![image](https://github.com/Raccoon-band/FreeCodeCamp/assets/121566462/29c22c17-8acd-4db5-a1fe-8f51e3d428ab = 250px)
 
 ### **Tribute Page**
