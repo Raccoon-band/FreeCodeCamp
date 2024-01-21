@@ -5,7 +5,7 @@ In this certification, are learned the languages that developers use to build we
 
 ### **Survey Form**
 For this project, a survey form has been created to collect data from your users. Check by clicking on the image:
-<a href="https://codepen.io/Raccoon-nodes/pen/vYPZJae"><p align="center"><img src="https://github.com/Raccoon-band/FreeCodeCamp/assets/121566462/29c22c17-8acd-4db5-a1fe-8f51e3d428ab" width=65% /></p></a>
+[<p align="center"><img src="https://github.com/Raccoon-band/FreeCodeCamp/assets/121566462/29c22c17-8acd-4db5-a1fe-8f51e3d428ab" width=65% /></p>](https://codepen.io/Raccoon-nodes/pen/vYPZJae)
 
 ### **Tribute Page**
 This project is a tribute page dedicated to Taras Shevchenko, a prominent Ukrainian poet, writer, and artist. The webpage provides a brief overview of Shevchenko's life, highlighting key milestones and contributions to literature and national identity. It incorporates responsive design for optimal viewing across various devices, offering an engaging and informative experience for users interested in learning about this influential figure in Ukrainian history.
